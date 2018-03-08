@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "808699839664",
+    "firebase_url": "https://chopp-me.firebaseio.com",
+    "project_id": "chopp-me",
+    "storage_bucket": "chopp-me.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808699839664:android:5e611b2288d7a237",
+        "android_client_info": {
+          "package_name": "rodrigosantos.com.choppme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808699839664-p2cmaoireka097g7btnb75i11t8i1def.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rodrigosantos.com.choppme",
+            "certificate_hash": "742e3f9afd0d62c7953c0d65732dd8d838b96e30"
+          }
+        },
+        {
+          "client_id": "808699839664-v7qf051dfqr12j2to4im567nej6dsg0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkbP48s8ZZz7jf3jbNK0l9jebxWGjN3Bs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808699839664-v7qf051dfqr12j2to4im567nej6dsg0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
